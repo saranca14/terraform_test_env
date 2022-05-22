@@ -3,7 +3,7 @@ terraform_test_env
 
 
 Terraform provider settings is used with STS assume role authentication.
-Terraform module incorporates both Network and Elastic beanstalk at the same time.
+Terraform module incorporates both Network and Elastic beanstalk in a single module. In future different modules can be used for reusability.
 
 Currently environment is destroyed.
 
